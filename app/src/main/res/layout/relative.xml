@@ -10,7 +10,7 @@
         android:layout_height="234dp"
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
-        app:srcCompat="@drawable/fisher-mall-cinema" />
+        app:srcCompat="@drawable/fishermallcinema" />
 
     <TextView
         android:id="@+id/textView4"

@@ -16,7 +16,7 @@
         android:cropToPadding="false"
         android:scaleType="fitXY"
         android:visibility="visible"
-        app:srcCompat="@drawable/fisher-mall-cinema" />
+        app:srcCompat="@drawable/fishermallcinema" />
 
     <TextView
         android:id="@+id/textView3"
